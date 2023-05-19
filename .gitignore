@@ -1,0 +1,14 @@
+/CMakeLists.txt.user*
+/documentation
+/build*
+/LicenseTemplate
+/packaging
+/design
+/.albertignore
+*.qmlc
+*.jsc
+.DS_Store
+export.h
+config.h
+/.idea
+/cmake-*

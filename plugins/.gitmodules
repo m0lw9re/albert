@@ -1,0 +1,3 @@
+[submodule "python/plugins"]
+	path = python/plugins
+	url = https://github.com/albertlauncher/python.git
